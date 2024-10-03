@@ -1,6 +1,6 @@
 //يتضمن العنوان (Logo) وزر التبديل بين الوضع الليلي والوضع الفاتح، بالإضافة إلى قائمة البحث.
 import ThemeToggle from './ThemeToggle';
-import logo from '../assets/logo.svg'; // Import the logo
+import logo from '../../public/assets/logo.svg'; // Import the logo
 
 function Navbar() {
   return (

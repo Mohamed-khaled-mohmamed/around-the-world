@@ -1,6 +1,4 @@
 import { useState } from 'react';
-import moon from '../assets/moon.svg';
-import sun from '../assets/sun.svg';
 import { useEffect } from 'react';
 
 function ThemeToggle() {
